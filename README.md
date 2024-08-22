@@ -1,1 +1,1 @@
-This repository will contain collection of machine learning notebooks and other resources
+This repository contains collection of my machine learning, projects, notebooks and any other related resources
